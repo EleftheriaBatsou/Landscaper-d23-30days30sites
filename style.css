@@ -1,0 +1,61 @@
+a:link {
+  color: #B24900;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #B24900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3a9b00;
+  text-decoration: underline;
+}
+
+.navbar {
+  background-color: white !important;
+}
+
+.navbar-brand {
+  color: #3a9b00 !important;
+}
+
+.first-header {
+  background-color: #b7e876 !important;
+  height: 15px !important;
+}
+
+.li-1-header {
+  padding: 10px 20px;
+  text-align: right !important;
+  font-weight: 600;
+}
+
+.sec-header {
+  margin-top: 50px !important;
+  border: none;
+  width: 100%;
+}
+
+.li-2-header {
+  padding: 10px 20px;
+  text-align: left;
+}
+
+.header2 {
+  color: #3a9b00;
+}
+
+.favicons {
+  height: 24px;
+  width: 24px;
+}
+
+.pinkColor {
+  background-color: #3a9b00;
+}
+
+#footer {
+  margin-top: 50px;
+}
